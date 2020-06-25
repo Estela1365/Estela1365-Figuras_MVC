@@ -1,0 +1,9 @@
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\bin\Debug\AbstracFactoryFiguras.exe.config
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\bin\Debug\AbstracFactoryFiguras.exe
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\bin\Debug\AbstracFactoryFiguras.pdb
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\obj\Debug\AbstracFactoryFiguras.csprojAssemblyReference.cache
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\obj\Debug\AbstracFactoryFiguras.csproj.CoreCompileInputs.cache
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\obj\Debug\AbstracFactoryFiguras.exe
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\obj\Debug\AbstracFactoryFiguras.pdb
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\obj\Debug\AbstracFactoryFiguras.Figuras.resources
+C:\Users\cortez\Documents\9-UTHH\Programacion\AbstracFactoryFiguras\AbstracFactoryFiguras\obj\Debug\AbstracFactoryFiguras.csproj.GenerateResource.cache
