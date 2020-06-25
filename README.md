@@ -1,2 +1,2 @@
-# Estela1365-Figuras_MVC
+# Figuras MVC C#
 Áreas y perímetros
